@@ -11,7 +11,7 @@ const classRoutes = require("./routes/classRoutes");
 const memberRoutes = require("./routes/memberRoutes");
 
 const app = express();
-git add "Aditya Kumbhar 150096725187" git commit -m "Add gym management API assignment - Aditya Kumbhar 150096725187"
+
 // connect to mongodb
 connectDB();
 
