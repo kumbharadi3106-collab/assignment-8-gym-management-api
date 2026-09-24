@@ -1,6 +1,7 @@
 # Assignment 08 - Gym & Fitness Club Management REST API
 
 Submitted by: **Aditya Kumbhar**
+Live Link: https://assignment-8-gym-management-api-03gy.onrender.com
 
 A backend REST API for managing a gym/fitness club - member registration & login,
 class bookings with a seat limit, and membership renewals. Built with Node.js,
