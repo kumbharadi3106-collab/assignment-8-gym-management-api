@@ -27,7 +27,7 @@ app.use(
   })
 );
 
-git add "Aditya Kumbhar 150096725187" 
+
 app.use(passport.initialize());
 app.use(passport.session());
 
