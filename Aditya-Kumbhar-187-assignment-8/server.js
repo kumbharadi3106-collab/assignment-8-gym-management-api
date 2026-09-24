@@ -26,7 +26,6 @@ app.use(
     saveUninitialized: false,
   })
 );
-git commit -m "Add gym management API assignment - Aditya Kumbhar 150096725187"
 
 git add "Aditya Kumbhar 150096725187" 
 app.use(passport.initialize());
